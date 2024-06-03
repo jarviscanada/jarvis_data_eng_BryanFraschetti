@@ -45,7 +45,7 @@ VALUES
   (
     '$timestamp', '$host_id', '$memory_free', 
     '$cpu_idle', '$cpu_kernel', '$disk_io', 
-    '$disk_io'
+    '$disk_available'
   );
 "
 
